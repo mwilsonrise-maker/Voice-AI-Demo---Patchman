@@ -1,0 +1,7 @@
+{
+  "name": "Patchman AI Voice Agents",
+  "description": "Voice AI demonstration for Drywall companies featuring Front Desk and Emergency Dispatch agents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
